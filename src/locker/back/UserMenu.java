@@ -18,8 +18,8 @@ public class UserMenu {
 	    public UserMenu(String unn) throws IOException
 	    {
 	    	this.unn=unn;
-	        System.out.println("1. Store Credentials");
-	        System.out.println("2. Fetch Credentials");
+	        System.out.println("1. Create File");
+	        System.out.println("2. Retrive File");
 	        System.out.println("3. Delete File");
 	       
 	        System.out.println("4. Back to menu");
